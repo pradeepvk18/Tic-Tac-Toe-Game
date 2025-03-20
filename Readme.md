@@ -1,6 +1,7 @@
 Tic-Tac-Toe Game
 
 🎮 About the Project
+
 This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It is a web-based game where two players take turns to mark 'X' and 'O' on a 3x3 grid. The game determines the winner based on standard Tic-Tac-Toe rules or declares a draw if all cells are filled.
 
 🚀 Features
@@ -35,10 +36,13 @@ If a player wins, the game announces the winner; otherwise, it continues until t
 
 
 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or new features.
 
 📜 License
+
 This project is open-source and available under the MIT License.
 
 Connect with Me
+
 LinkedIn | GitHub
